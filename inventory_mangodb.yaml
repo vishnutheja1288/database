@@ -1,0 +1,2 @@
+[mongodb]
+ip_address ansible_user=ansible
