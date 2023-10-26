@@ -1,0 +1,10 @@
+---
+root_password: admin@123456
+admin_user: admin
+admin_password: admin@12345
+db_name: admin
+password_validation_policy: 1
+
+# 0 - Low
+# 1 - Medium
+# 2 - Strong
